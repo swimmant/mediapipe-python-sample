@@ -254,3 +254,6 @@ mediapipe-python-sample は タグv0.8.4、v0.8.5のコードをご使用くだ�
 mediapipe-python-sample is under [Apache-2.0 License](LICENSE).
 
 また、女性の画像、および背景画像は[フリー素材ぱくたそ](https://www.pakutaso.com)様の写真を利用しています。
+
+# 使用jetson nano 做的姿态检测项目效果演示 【一部分基于当前项目,暂时不方便开源】
+-![](./image/PushShow.gif)
